@@ -41,8 +41,8 @@ Mobile version active
 
 ### Links
 
-- Solution URL: [Code on GitHub](https://github.com/AlexandruStefanGherhes/FAQ-accordion)
-- Live Site URL: [GitHub Pages Live URL](https://faq-accordion-plum.vercel.app/)
+- Solution URL: [Code on GitHub](https://github.com/AlexandruStefanGherhes/Article-Preview.git)
+- Live Site URL: [Vercel Live URL](https://article-preview-component-omega-blond.vercel.app/)
 
 ## My process
 
